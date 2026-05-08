@@ -21,9 +21,6 @@ A multi-page React web app for tracking goals, habits, and progress with XP, str
 - LocalStorage
 - Context API
 
-## 📸 screenshoot
-
-![image]()
 
 ## ▶️ Run Locally
 
@@ -31,6 +28,8 @@ A multi-page React web app for tracking goals, habits, and progress with XP, str
 npm install
 npm run dev
 ```
+
+## 📸 screenshoot
 
 ![image alt](https://github.com/FatimaHabibi34/goal-tracker/blob/28d8dfa5f1288f79d3cef730afd9b21f44538825/src/assets/Screenshot%202026-05-09%20at%2002-24-51%20goal-tracker.png)
 ![image alt](https://github.com/FatimaHabibi34/goal-tracker/blob/28d8dfa5f1288f79d3cef730afd9b21f44538825/src/assets/Screenshot%202026-05-09%20at%2002-25-05%20goal-tracker.png)
