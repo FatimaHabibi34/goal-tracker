@@ -36,3 +36,5 @@ npm run dev
 ![image alt](https://github.com/FatimaHabibi34/goal-tracker/blob/28d8dfa5f1288f79d3cef730afd9b21f44538825/src/assets/Screenshot%202026-05-09%20at%2002-25-22%20goal-tracker.png)
 ![image alt](https://github.com/FatimaHabibi34/goal-tracker/blob/28d8dfa5f1288f79d3cef730afd9b21f44538825/src/assets/Screenshot%202026-05-09%20at%2002-26-12%20goal-tracker.png)
 ![image alt](https://github.com/FatimaHabibi34/goal-tracker/blob/28d8dfa5f1288f79d3cef730afd9b21f44538825/src/assets/Screenshot%202026-05-09%20at%2002-26-41%20goal-tracker.png)
+
+![image alt](https://github.com/FatimaHabibi34/goal-tracker/blob/7d2220aac2cfc81d1c8ce4a39cfb6ff9e97e9fe3/src/assets/Screenshot%202026-05-09%20at%2003-09-30%20goal-tracker.png)
